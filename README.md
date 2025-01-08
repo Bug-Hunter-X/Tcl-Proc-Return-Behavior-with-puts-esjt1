@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon but easily encountered bug in Tcl related to the interaction of the `puts` command and the `return` command within a procedure. The `bug.tcl` file contains the buggy code, while `bugSolution.tcl` provides the corrected version.
